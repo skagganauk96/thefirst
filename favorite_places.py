@@ -8,5 +8,3 @@ fav_numbers = {
 for name, numbers in fav_numbers.items():
 	numbers = [str(number) for number in numbers]  # списочное выражение
 	print(name.title() + ": " + ', '.join(numbers))
-	
-print(help(dict.keys))
