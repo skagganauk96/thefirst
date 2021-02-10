@@ -8,6 +8,11 @@ users = {
 		'first': 'misha',
 		'last': 'curie',
 		'location': 'minsk',
+		},
+	'alexey': {
+		'first': 'alex',
+		'last': 'jidko',
+		'location': 'minsk',
 		}
 	}
 	
