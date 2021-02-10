@@ -5,7 +5,7 @@ users = {
 		'location': 'princeton',
 		},
 	'mcurie': {
-		'first': 'michael',
+		'first': 'misha',
 		'last': 'curie',
 		'location': 'minsk',
 		},
