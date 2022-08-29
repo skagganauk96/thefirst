@@ -10,3 +10,5 @@ img = Image.open(path_to_image)
 text = pytesseract.image_to_string(img)
 
 print(text)
+
+print('blabla')
